@@ -1,5 +1,4 @@
 .MODEL SMALL 
-
 .DATA 
 Y DW 0
 X DW 0
