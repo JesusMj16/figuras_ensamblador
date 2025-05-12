@@ -1,5 +1,5 @@
 .MODEL small
-.STACK 100hb 
+.STACK 100
 
 .DATA
 ;:::::::::::::::::::::DATA PARA LA PARTE DE MENU::::::::::::::::::::::::::::::::
